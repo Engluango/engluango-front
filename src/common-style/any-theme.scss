@@ -1,0 +1,58 @@
+@import '@common-style/any-font.scss';
+@import '@common-style/any-size.scss';
+
+/* Сборные шрифты для заголовков */
+$engluan-typography-title-text-regular-s: 800 #{$engluan-size-font-title-text-s}
+  #{$engluan-font-title-text};
+$engluan-typography-title-text-medium-s: 800 #{$engluan-size-font-title-text-s} #{$engluan-font-title-text};
+$engluan-typography-title-text-bold-s: 800 #{$engluan-size-font-title-text-s} #{$engluan-font-title-text};
+
+$engluan-typography-title-text-regular-m: 800 #{$engluan-size-font-title-text-m}
+  #{$engluan-font-title-text};
+$engluan-typography-title-text-medium-m: 800 #{$engluan-size-font-title-text-m} #{$engluan-font-title-text};
+$engluan-typography-title-text-bold-m: 800 #{$engluan-size-font-title-text-m} #{$engluan-font-title-text};
+
+$engluan-typography-title-text-regular-l: 900 #{$engluan-size-font-title-text-l}
+  #{$engluan-font-title-text};
+$engluan-typography-title-text-medium-l: 900 #{$engluan-size-font-title-text-l} #{$engluan-font-title-text};
+$engluan-typography-title-text-bold-l: 900 #{$engluan-size-font-title-text-l} #{$engluan-font-title-text};
+
+$engluan-typography-title-text-regular-xl: 900 #{$engluan-size-font-title-text-xl}
+  #{$engluan-font-title-text};
+$engluan-typography-title-text-medium-xl: 900 #{$engluan-size-font-title-text-xl}
+  #{$engluan-font-title-text};
+$engluan-typography-title-text-bold-xl: 900 #{$engluan-size-font-title-text-xl} #{$engluan-font-title-text};
+
+/* Сборные шрифты для основного текста */
+$engluan-typography-main-text-regular-s: #{$engluan-size-font-main-text-s} #{$engluan-font-main-text};
+$engluan-typography-main-text-medium-s: 500 #{$engluan-size-font-main-text-s} #{$engluan-font-main-text};
+$engluan-typography-main-text-bold-s: 700 #{$engluan-size-font-main-text-s} #{$engluan-font-main-text};
+
+$engluan-typography-main-text-regular-m: #{$engluan-size-font-main-text-m} #{$engluan-font-main-text};
+$engluan-typography-main-text-medium-m: 500 #{$engluan-size-font-main-text-m} #{$engluan-font-main-text};
+$engluan-typography-main-text-bold-m: 700 #{$engluan-size-font-main-text-m} #{$engluan-font-main-text};
+
+$engluan-typography-main-text-regular-l: #{$engluan-size-font-main-text-l} #{$engluan-font-main-text};
+$engluan-typography-main-text-medium-l: 500 #{$engluan-size-font-main-text-l} #{$engluan-font-main-text};
+$engluan-typography-main-text-bold-l: 700 #{$engluan-size-font-main-text-l} #{$engluan-font-main-text};
+
+$engluan-typography-main-text-regular-xl: #{$engluan-size-font-main-text-xl} #{$engluan-font-main-text};
+$engluan-typography-main-text-medium-xl: 500 #{$engluan-size-font-main-text-xl} #{$engluan-font-main-text};
+$engluan-typography-main-text-bold-xl: 700 #{$engluan-size-font-main-text-xl} #{$engluan-font-main-text};
+
+/* Сборные шрифты для неосновного текста */
+$engluan-typography-sub-text-regular-s: #{$engluan-size-font-sub-text-s} #{$engluan-font-sub-text};
+$engluan-typography-sub-text-medium-s: 500 #{$engluan-size-font-sub-text-s} #{$engluan-font-sub-text};
+$engluan-typography-sub-text-bold-s: 700 #{$engluan-size-font-sub-text-s} #{$engluan-font-sub-text};
+
+$engluan-typography-sub-text-regular-m: #{$engluan-size-font-sub-text-m} #{$engluan-font-sub-text};
+$engluan-typography-sub-text-medium-m: 500 #{$engluan-size-font-sub-text-m} #{$engluan-font-sub-text};
+$engluan-typography-sub-text-bold-m: 700 #{$engluan-size-font-sub-text-m} #{$engluan-font-sub-text};
+
+$engluan-typography-sub-text-regular-l: #{$engluan-size-font-sub-text-l} #{$engluan-font-sub-text};
+$engluan-typography-sub-text-medium-l: 500 #{$engluan-size-font-sub-text-l} #{$engluan-font-sub-text};
+$engluan-typography-sub-text-bold-l: 700 #{$engluan-size-font-sub-text-l} #{$engluan-font-sub-text};
+
+$engluan-typography-sub-text-regular-xl: #{$engluan-size-font-sub-text-xl} #{$engluan-font-sub-text};
+$engluan-typography-sub-text-medium-xl: 500 #{$engluan-size-font-sub-text-xl} #{$engluan-font-sub-text};
+$engluan-typography-sub-text-bold-xl: 700 #{$engluan-size-font-sub-text-xl} #{$engluan-font-sub-text};

@@ -1,3 +1,25 @@
-body {
-  background-color: black;
-}
+/* Размеры шрифтов заголовков */
+$engluan-size-font-title-text-s: #{20px}/#{24px};
+$engluan-size-font-title-text-m: #{24px}/#{28px};
+$engluan-size-font-title-text-l: #{30px}/#{32px};
+$engluan-size-font-title-text-xl: #{36px}/#{38px};
+
+/* Размеры шрифтов основного текста */
+$engluan-size-font-main-text-s: #{14px}/#{18px};
+$engluan-size-font-main-text-m: #{16px}/#{20px};
+$engluan-size-font-main-text-l: #{18px}/#{22px};
+$engluan-size-font-main-text-xl: #{22px}/#{26px};
+
+/* Размеры шрифтов для неоснового текста */
+$engluan-size-font-sub-text-s: #{6px}/#{10px};
+$engluan-size-font-sub-text-m: #{8px}/#{12px};
+$engluan-size-font-sub-text-l: #{10px}/#{14px};
+$engluan-size-font-sub-text-xl: #{12px}/#{16px};
+
+/* Размеры радиусов, если добавляете новый радиус, приписывайте число перед размером(4xs, 2l и т.д) */
+$engluan-size-radius-xs: 2px;
+$engluan-size-radius-s: 4px;
+$engluan-size-radius-m: 8px;
+$engluan-size-radius-l: 10px;
+$engluan-size-radius-xl: 12px;
+$engluan-size-radius-round: 100px;
